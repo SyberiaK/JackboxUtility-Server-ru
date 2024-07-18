@@ -2,31 +2,31 @@
     "tags":[
        {
             "id":"talking",
-            "name":"Discussion",
+            "name":"Обсуждение",
             "icon":"megaphone",
             "description":"Игры, которые требуют или выигрывают от громкого обсуждения между игроками."
        },
        {
        	    "id":"drawing",
-            "name":"Drawing",
+            "name":"Рисование",
             "icon":"edit",
             "description":"В этих играх надо рисовать."
        },
        {
        	    "id":"deduction",
-            "name":"Strategy",
+            "name":"Стратегия",
             "icon":"comment_urgent",
             "description":"Вам придется хорошо подумать о своих действиях в этих играх."
        },
        {
        	    "id":"knowledge",
-            "name":"Trivia",
+            "name":"Викторины",
             "icon":"unknown",
             "description":"Это викторины."
        },
        {
             "id":"writing",
-            "name":"Writing",
+            "name":"Написание",
             "icon":"text_align_middle",
             "description":"Вам придется писать в этих играх."
         }
@@ -50,7 +50,7 @@
     {
         "id":"jpp1",
         "name":"The Jackbox Party Pack",
-        "description":"Year of release: 2014",
+        "description":"Год выпуска: 2014",
         "launchers_id":{
             "steam":"331670",
             "epic":"Feverfew"
@@ -154,7 +154,7 @@
             },
             {
                 "id":"drawful",
-                "name":"Drawful",
+                "name":"Рисовач",
                 "background":"game_backgrounds/Drawful.webp",
                 "path":"games/Drawful",
                 "game_info":{
@@ -162,7 +162,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20-25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -171,10 +171,10 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text and drawings.",
+                    "moderation_description":"Текст, рисунки.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Draw badly with style!",
                     "small_description":"Draw badly with style!",
                     "description":"The drawing game that takes all other drawing games and draws little mustaches on them. Can’t draw? No problem! It’s funnier that way!",
@@ -199,7 +199,7 @@
             },
             {
                 "id":"wordspud",
-                "name":"Word Spud",
+                "name":"Словоблуд",
                 "background":"game_backgrounds/WordSpud.webp",
                 "path":"games/WordSpud",
                 "game_info":{
@@ -207,7 +207,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10-15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -216,10 +216,10 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text.",
+                    "moderation_description":"Текст.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"PASS IT AROUND",
                     "small_description":"PASS IT AROUND",
                     "description":"Keep the words rolling all night! Just finish the word coming toward you, like “Mail___.” Mail enhancement, you say? You nailed it.",
@@ -243,7 +243,7 @@
             },
             {
                 "id":"lieswatter",
-                "name":"Lie Swatter",
+                "name":"Мухи-врухи",
                 "background":"game_backgrounds/LieSwatter.webp",
                 "path":"games/LieSwatter",
                 "game_info":{
@@ -251,7 +251,7 @@
                         "min":1,
                         "max":100
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10-15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -260,10 +260,10 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"This game doesn't require moderation.",
+                    "moderation_description":"Не требует модерирования.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Is it true or false?",
                     "small_description":"Is it true or false?",
                     "description":"Do lobsters pee out of their heads? Did Japan vote the instant noodle the top invention of the 20th century? Or are you calling BS?\n\nNOTE: Opening this game with the Utility will open the Party Pack menu, skipping the introduction. This is intentional, as the game freezes when trying to open it more efficiently like other games.",
@@ -287,7 +287,7 @@
             },
             {
                 "id":"fibbagexl",
-                "name":"Fibbage XL",
+                "name":"Бредовуха XL",
                 "background":"game_backgrounds/FibbageXL.webp",
                 "path":"games/FibbageXL",
                 "game_info":{
@@ -304,10 +304,10 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text.",
+                    "moderation_description":"Текст.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"The hilarious bluffing party game",
                     "small_description":"The hilarious bluffing party game",
                     "description":"Fool your friends with your lies, avoid theirs, and find the (usually outrageous) truth. “The mayor of Rabbit Hash, Kentucky is a ____.” Go!",
@@ -337,7 +337,7 @@
     {
         "id":"jpp2",
         "name":"The Jackbox Party Pack 2",
-        "description":"Year of release: 2015",
+        "description":"Год выпуска: 2015",
         "launchers_id":{
             "steam":"397460",
             "epic":"Lilac"
@@ -365,7 +365,7 @@
         "games":[
             {
                 "id":"fibbage2",
-                "name":"Fibbage 2",
+                "name":"Бредовуха 2",
                 "background":"game_backgrounds/Fibbage2.webp",
                 "path":"games/Fibbage2",
                 "game_info":{
@@ -373,7 +373,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15-20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -383,10 +383,10 @@
                     "audience_description":"The audience tries to guess the truth, without giving points to the players in case of choosing their lies, and gives likes to their favorite lies. If they guess all the truths, at the end of the game they'll receive an additional crazy fact.",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text.",
+                    "moderation_description":"Текст.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"The hilarious bluffing party game",
                     "small_description":"The hilarious bluffing party game",
                     "description":"More Fibbage! Lie to your friends, avoid their lies, and spot the truth. “In Arizona, you must obtain a permit to feed ______ to pigs.” Go!",
@@ -413,7 +413,7 @@
             },
             {
                 "id":"earwax",
-                "name":"Earwax",
+                "name":"Звукварь",
                 "background":"game_backgrounds/Earwax.webp",
                 "path":"games/Earwax",
                 "game_info":{
@@ -421,7 +421,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15-25 минут",
                     "playtime":{
                         "min":15,
                         "max":25
@@ -431,10 +431,10 @@
                     "audience_description":"The audience can give likes to their favorite responses.",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"Since players can only input sounds provided by the game, this game doesn't require moderation. However, you cannot control the sound combinations that players submit.",
+                    "moderation_description":"Поскольку предлагаемые звуки предусматриваются игрой, модерирование не требуется. Учтите, что модерировать комбинации звуков не получится.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"The game of sound strategy",
                     "small_description":"The game of sound strategy",
                     "description":"Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!",
@@ -460,7 +460,7 @@
             },
             {
                 "id":"bidiots",
-                "name":"Bidiots",
+                "name":"Дуракцион",
                 "background":"game_backgrounds/Bidiots.webp",
                 "path":"games/Bidiots",
                 "game_info":{
@@ -480,7 +480,7 @@
                     "moderation_description":"Players can submit drawings.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Time to bid",
                     "small_description":"Time to bid",
                     "description":"Outbid your opponents for absurd art – drawn by players themselves – and win this strangely competitive auction game! Don’t be a bidiot!",
@@ -507,7 +507,7 @@
             },
             {
                 "id":"quiplashxl",
-                "name":"Quiplash XL",
+                "name":"Смехлыст XL",
                 "background":"game_backgrounds/QuiplashXL.webp",
                 "path":"games/QuiplashXL",
                 "game_info":{
@@ -515,7 +515,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15-20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -525,10 +525,10 @@
                     "audience_description":"The audience can vote for their favorite answers.",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text.",
+                    "moderation_description":"Текст.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"The Say-Anything Party Game",
                     "small_description":"The Say-Anything Party Game",
                     "description":"The laugh-a-minute battle of wits and wittiness in its HUGEST form! Come up with “the best name to give an ugly baby” and win!",
@@ -553,13 +553,13 @@
                 ]
             },            {
                 "id":"bombcorp",
-                "name":"Bomb Corp.",
+                "name":"Бомб Корп.",
                 "game_info":{
                     "players":{
                         "min":1,
                         "max":4
                     },
-                    "length":"5 - 10 minutes",
+                    "length":"5-10 минут",
                     "playtime":{
                         "min":5,
                         "max":10
@@ -569,7 +569,7 @@
                     "stream_friendly":"MIDLY_PLAYABLE",
                     "stream_friendly_description":"It's recommended for players to communicate out loud with each other to mention the rules and know which wires to cut.",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"This game doesn't require moderation.",
+                    "moderation_description":"Не требует модерирования.",
                     "subtitles":false,
                     "type":"COOP",
                     "translation":"ENGLISH",
@@ -606,7 +606,7 @@
     {
         "id":"jpp3",
         "name":"The Jackbox Party Pack 3",
-        "description":"Year of release: 2016",
+        "description":"Год выпуска: 2016",
         "launchers_id":{
             "steam":"434170",
             "epic":"Orchid"
@@ -677,7 +677,7 @@
         "games":[
             {
                 "id":"quiplash2",
-                "name":"Quiplash 2",
+                "name":"Смехлыст 2",
                 "background":"game_backgrounds/Quiplash2.webp",
                 "path":"games/Quiplash2",
                 "game_info":{
@@ -685,7 +685,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15-20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -695,10 +695,10 @@
                     "audience_description":"The audience can vote for their favorite answers. In addition, they can submit responses that are displayed on-screen with the \"Audience Play-Along\" option turned on.",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"CENSORING",
-                    "moderation_description":"With the \"Manual Censoring\" option enabled, the VIP can censor responses from players and the audience once they appear on-screen. If necessary, it's recommended to disable the \"Audience Play-Along\" option so that only players can submit text.",
+                    "moderation_description":"Опция \"Ручная цензура\" (todo: точное название) позволяет VIP-игроку вручную цензурить ответы других игроков и зрителей. При необходимости отключите опцию \"Игра со зрителями\", чтобы отключить ответы зрителей.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"The Say-Anything Party Game",
                     "small_description":"The Say-Anything Party Game",
                     "description":"The say-anything party game returns. Come up with \"a bad substitute for dental floss\" and win! Tired of our weird prompts? Try the new Make Your Own mode!",
@@ -724,7 +724,7 @@
             },
             {
                 "id":"triviamurderparty",
-                "name":"Trivia Murder Party",
+                "name":"Смертельная вечеринка",
                 "background":"game_backgrounds/TriviaMurderParty.webp",
                 "path":"games/TriviaMurderParty",
                 "game_info":{
@@ -732,7 +732,7 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15-20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -742,10 +742,10 @@
                     "audience_description":"The audience can answer questions along with the players. If at the end of the game they have a higher score than the best player, they survive.",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"If necessary, it's recommended to enable the \"No Writing and Drawing Mode\" option so that players cannot submit text or drawings.",
+                    "moderation_description":"При необходимости, включите опцию \"Без надписей и рисунков\".",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Will you survive this trivia?",
                     "small_description":"Will you survive this trivia?",
                     "description":"Be the last to survive a serial killer's absurd trivia game show. But it's fun!",
@@ -771,7 +771,7 @@
             },
             {
                 "id":"guesspionage",
-                "name":"Guesspionage",
+                "name":"Нашшпионаж",
                 "background":"game_backgrounds/Guesspionage.webp",
                 "path":"games/Guesspionage",
                 "game_info":{
@@ -779,7 +779,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10-15 минут",
                     "playtime":{
                         "min":10,
                         "max":15
@@ -789,10 +789,10 @@
                     "audience_description":"The audience answers the given questions and the percentages of these answers are used in the game instead of the global ones provided by the game.",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"This game doesn't require moderation.",
+                    "moderation_description":"Не требует модерирования.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Data mining mayhem!",
                     "small_description":"Data mining mayhem!",
                     "description":"What percentage of people have buried something in the woods? Ridden in the back of a cop car? Have a crush on someone they work with? Guess right and win!",
@@ -818,7 +818,7 @@
             },
             {
                 "id":"fakinit",
-                "name":"Fakin' It!",
+                "name":"Обмани меня!",
                 "background":"game_backgrounds/FakinIt.webp",
                 "path":"games/FakinIt",
                 "game_info":{
@@ -826,7 +826,7 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15-20 минут",
                     "playtime":{
                         "min":15,
                         "max":20
@@ -837,10 +837,10 @@
                     "stream_friendly":"MIDLY_PLAYABLE",
                     "stream_friendly_description":"Players need to be able to see each other for the game to work properly. Therefore, if the game is played through streaming, players must have cameras to play. For the \"YOU GOTTA POINT\" category, it's recommended that players write each other's names on different pieces of paper and show them to the camera when prompted to do so. Alternatively, they can write each other's names in the chat.",
                     "moderation":"CENSORING",
-                    "moderation_description":"With the \"Manual Censoring\" option enabled, the VIP can censor the player's responses once they appear on screen in the final round.",
+                    "moderation_description":"С опцией \"Ручная цензура\", VIP-игрок может цензурить ответы игроков, появляющиеся на экране в финальном раунде.",
                     "subtitles":false,
                     "type":"COOP",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Catch the Sneaky Trickster!",
                     "small_description":"Catch the Sneaky Trickster!",
                     "description":"Everyone gives an answer, but not everyone knows the question. One of your friends has something to hide. Find the faker before it’s too late!",
@@ -867,7 +867,7 @@
             },
             {
                 "id":"teeko",
-                "name":"Tee K.O.",
+                "name":"Футбол К.О.",
                 "background":"game_backgrounds/TeeKO.webp",
                 "path":"games/TeeKO",
                 "game_info":{
@@ -875,7 +875,7 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 25 minutes",
+                    "length":"20-25 минут",
                     "playtime":{
                         "min":20,
                         "max":25
@@ -888,7 +888,7 @@
                     "moderation_description":"With the \"Manual Censoring\" option enabled, the VIP can censor responses from players and the audience once they appear on-screen. If necessary, it's recommended to disable the \"Audience Suggestions\" option so that only players can send text.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"T-Shirt Knock Out",
                     "small_description":"T-Shirt Knock Out",
                     "description":"Draw pictures, write slogans, then swap them around to create your own custom t-shirt warriors. Only the most worthy novelty t-shirt will leave the tournament alive.",

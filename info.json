@@ -1,17 +1,17 @@
 {
-    "id":"jackbox-ru",
-    "name":"Jackbox на Русском",
-    "description":"Переводы и модификации на Jackbox от Translate Guardians!",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
+    "id":"jackbox-ru-un",
+    "name":"Jackbox на Русском (WI unofficial)",
+    "description":"Тестовый полигон для использования переводов от WI",
+    "image":"https://raw.githubusercontent.com/SyberiaK/JackboxUtility-Server-ru/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "api":"https://raw.githubusercontent.com/SyberiaK/JackboxUtility-Server-ru/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/SyberiaK/JackboxUtility-Server-ru/main/assets"
         }
     ],
-    "controller":"jack.trgu.ru",
+    "controller":"jackbox.fun",
     "languages":["ru"],
     "links": [
         {
